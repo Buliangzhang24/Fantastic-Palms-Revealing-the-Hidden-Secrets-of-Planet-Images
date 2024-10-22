@@ -1,0 +1,29 @@
+name: finalproject
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pytorch
+  - torchvision
+  - python=3.8
+  - requests
+  - geopandas
+  - rasterio
+  - shapely
+  - pillow
+  - numpy
+  - matplotlib
+  - gdal
+  - scikit-learn
+  - requests
+  - spyder
+  - jupyter
+  - pandas
+  - affine
+  - contextily
+  - owslib
+  - fiona
+  - segment-anything
+  - pycocotools
+  - onnxruntime
+  - onnx
